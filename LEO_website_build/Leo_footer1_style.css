@@ -1,0 +1,63 @@
+#footer {
+    background-image: linear-gradient(to right,rgb(28, 28, 48) 5%,rgb(44, 44, 75) 40%,rgb(101, 101, 123)100%,rgb(79, 79, 151) 2%);
+}
+
+#line {
+    padding-top: 40px;
+    text-align: center;
+}
+
+#footerin {
+    padding-top: 20px;
+    padding-bottom: 70.31px;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+}
+
+
+#DNDtxt, #social_media_txt, #logo {
+    margin-bottom: 5%;
+    font-size: 30px;
+}
+
+#social {
+    margin-top: 80px;
+    margin-left: 275px;
+}
+
+#logo1 {
+    margin-top: 40px;
+}
+
+#nav_back {
+    margin-top: 40px;
+    margin-left: 260px;
+    gap: 100px;
+}
+
+#nav_back a img {
+    margin: 10px;
+}
+
+#social_media_icons, #nav_back {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#DNDimg, #logo {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#DNDtxt, #logo, #social_media_txt {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+a:link {
+    color: white;
+}
+
